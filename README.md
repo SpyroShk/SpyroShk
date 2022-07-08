@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SpyroShk
-- 👀 I’m interested in MObile application development.
+- 👀 I’m interested in Mobile application development.
 - 🌱 I’m currently learning Computing.
 - 💞️ I’m looking to collaborate on ...
 - 📫 You can reach me through sandeshshakya19@gmail.com
